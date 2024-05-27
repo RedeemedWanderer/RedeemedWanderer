@@ -11,7 +11,7 @@ Eager to join forces on pioneering blockchain projects, especially those aiming 
 
 ✨ Fun Fact:
 I'm an enthusiastic experimenter of emerging blockchain technologies and have a deep passion for teaching others about the transformative power of decentralized systems.
-
+![PulseChain](https://img.shields.io/badge/PulseChain-3b0a45?style=for-the-badge&logo=PulseChain&logoColor=white)
 <!---
 RedeemedWanderer/RedeemedWanderer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
