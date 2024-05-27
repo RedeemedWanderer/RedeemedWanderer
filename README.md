@@ -1,6 +1,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedeemedWanderer&show_icons=true&theme=dark)
 
-👋 **Hello, fellow coders (Specifally MalkoBenin)! I'm @RedeemedWanderer**
+👋 **Hello, fellow coders (MalkoBenin)! I'm @RedeemedWanderer**
 
 ![Blockchain Enthusiast](https://img.shields.io/badge/Blockchain%20Enthusiast-123456?style=for-the-badge&logo=blockchain&logoColor=white)
 
@@ -16,7 +16,7 @@ Eager to join forces on pioneering blockchain projects, especially those aiming 
 ### ✨ Fun Fact:
 I'm an enthusiastic experimenter of emerging blockchain technologies and have a deep passion for teaching others about the transformative power of decentralized systems.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedeemedWanderer&layout=compact&theme=dark)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ## Best Blockchain Projects Ever
 [![PulseChain](https://img.shields.io/badge/PulseChain-3b0a45?style=for-the-badge&logo=PulseChain&logoColor=white)](https://pulsechain.com)
