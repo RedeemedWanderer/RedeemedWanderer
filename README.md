@@ -1,6 +1,4 @@
-![GitHub Banner](https://raw.githubusercontent.com/RedeemedWanderer/Banner-/main/DALL%C2%B7E%202024-05-28%2007.42.56%20-%20A%20detailed%20banner%20with%20the%20theme%20of%20blockchain%20and%20innovation.%20The%20banner%20should%20have%20a%20dark%20background%20with%20elements%20of%20digital%20technology%20such%20as%20in.webp?token=GHSAT0AAAAAACS26N5WN2GHORWJTIVVN7CCZSVYSBA)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedeemedWanderer&show_icons=true&theme=dark)
+<img src="https://raw.githubusercontent.com/RedeemedWanderer/Banner-/main/DALL%C2%B7E%202024-05-28%2007.42.56%20-%20A%20detailed%20banner%20with%20the%20theme%20of%20blockchain%20and%20innovation.%20The%20banner%20should%20have%20a%20dark%20background%20with%20elements%20of%20digital%20technology%20such%20as%20in.webp?token=GHSAT0AAAAAACS26N5WN2GHORWJTIVVN7CCZSVYSBA" alt="GitHub Banner" width="100%">
 
 # 👋 Hello, fellow coders! I'm @RedeemedWanderer
 
@@ -36,6 +34,8 @@ PulseChain is a revolutionary blockchain that enhances Ethereum's capabilities b
 [![HEX](https://img.shields.io/badge/HEX-FF7F00?style=for-the-badge&logo=Hex&logoColor=white)](https://hex.com)
 [![PLSX](https://img.shields.io/badge/PLSX-FF0000?style=for-the-badge&logo=PLSX&logoColor=white)](https://pulsex.com)
 [![INC](https://img.shields.io/badge/INC-00FF00?style=for-the-badge&logo=INC&logoColor=white)](https://infinitecrypto.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedeemedWanderer&show_icons=true&theme=dark)
 
 ---
 
