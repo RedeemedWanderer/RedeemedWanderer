@@ -30,8 +30,6 @@ My ultimate goal is to design a robust smart contract and an innovative decentra
 
 I firmly believe in the power of immutable smart contracts, similar to Hex, which ensure that once deployed, they cannot be altered or tampered with. This principle underpins my commitment to creating secure, autonomous, and efficient smart contracts. I do not believe in maintaining admin key privileges once a contract is live. If I ever deploy a contract on the blockchain, I will revoke the admin keys to ensure it operates independently and transparently.
 
-PulseChain is a revolutionary blockchain that enhances Ethereum's capabilities by offering faster transaction speeds, lower fees, and greater scalability. Its focus on improving the overall blockchain experience makes it an ideal platform for innovative projects. My passion for PulseChain drives me to constantly learn, experiment, and develop solutions that can benefit its ecosystem. The satisfaction I derive from seeing my contributions help others and advance the blockchain space is unparalleled.
-
 ## Best Blockchain Projects Ever
 [![PulseChain](https://img.shields.io/badge/PulseChain-3b0a45?style=for-the-badge&logo=PulseChain&logoColor=white)](https://pulsechain.com)
 [![HEX](https://img.shields.io/badge/HEX-FF7F00?style=for-the-badge&logo=Hex&logoColor=white)](https://hex.com)
