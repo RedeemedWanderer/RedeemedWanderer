@@ -1,6 +1,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedeemedWanderer&show_icons=true&theme=dark)
 
-👋 **Hello, fellow coders (MalkoBenin)! I'm @RedeemedWanderer**
+👋 **Hello, fellow coders ! I'm @RedeemedWanderer**
 
 ![Blockchain Enthusiast](https://img.shields.io/badge/Blockchain%20Enthusiast-123456?style=for-the-badge&logo=blockchain&logoColor=white)
 
