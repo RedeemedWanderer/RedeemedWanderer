@@ -21,6 +21,9 @@
 I'm an enthusiastic experimenter of emerging blockchain technologies and have a deep passion for teaching others about the transformative power of decentralized systems.
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Ultimate Goal
 My ultimate goal is to design a robust smart contract and an innovative decentralized application (DApp) with a seamless and visually appealing website to complement it on the PulseChain blockchain. I am passionate about PulseChain because it represents the cutting edge of blockchain technology, offering enhanced scalability, speed, and security. By contributing to PulseChain, I aim to push the boundaries of what is possible in decentralized finance and blockchain applications.
